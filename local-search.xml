@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>test encrypt</title>
+    <link href="/2020/10/18/test-encrypt/"/>
+    <url>/2020/10/18/test-encrypt/</url>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="果咩呐，你输入的密码不对呀" data-whm="哼，文章哈希校验失败了啦！">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">呐，输入123456来解锁我叭</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="585f4081b958eeb1ff4b6b8ba50ec93b3642f59851b8d567a85770613f8c6f38">788e9f19a2509908ef3f2fa57f8d37d450f23bb3a17aec838452ff1061ff9d40b97acd1285712377902dbb2cd33e2cdc211bff791e5f5dda1cf4481aede543908351aaff6a8253f6160b58d174d2441261c867356dc05b46ad7e72560eed276482d271aeb79f208714e9c0ee1f10f756af2262af024c13613fe67147c438e8ed817c35138c64e398ac98bdf80ef69b5cd571304365001e72c204a7d79120578026a1e2889ee5bbb69a866f40a61b9def</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>【代号unnamed novel 4】和茜茜酱合作写的一篇小说~</title>
     <link href="/2020/10/18/unnamed%20novel%204/"/>
     <url>/2020/10/18/unnamed%20novel%204/</url>
